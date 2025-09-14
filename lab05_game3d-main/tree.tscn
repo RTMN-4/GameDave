@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://dwfiabmsr48fp"]
+
+[ext_resource type="PackedScene" uid="uid://chbfj551ky4rd" path="res://asset/Tree1.glb" id="1_brfkd"]
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_brfkd"]
+
+[node name="tree" type="Node3D"]
+
+[node name="Tree1" parent="." instance=ExtResource("1_brfkd")]
+transform = Transform3D(11.845, 0, 0, 0, 11.845, 0, 0, 0, 11.845, -0.377267, 13.2578, 0.851968)
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="Tree1"]
+transform = Transform3D(0.25, 0, 0, 0, 0.25, 0, 0, 0, 0.25, -0.102327, -1.12926, 0)
+visible = false
+mesh = SubResource("CylinderMesh_brfkd")

@@ -1,17 +1,22 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1757749950
-export_presets.cfg::TextFile/TextFile::-1::1757745907::0::1::::<><><>0<>0<><>::
+::res://::1757868079
+bush.tscn::PackedScene::7518689327752457247::1757867935::0::1::::<><><>0<>0<><>::uid://dktbb53t6xbw5::::res://asset/Bush.glb
+export_presets.cfg::TextFile::-1::1757867997::0::1::::<><><>0<>0<><>::
 icon.webp::CompressedTexture2D/CompressedTexture2D::27118964165343846::1757745907::1757745907::1::::<><><>0<>0<>2765b228073266418cb0e013965e5088<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
+index.apple-touch-icon.png::CompressedTexture2D/CompressedTexture2D::663958338443263244::1757867767::1757867769::1::::<><><>0<>0<>b292c243932869069e660a22f3461e95<>res://.godot/imported/index.apple-touch-icon.png-8085a11cc297d91deb55511843765958.ctex::
+index.icon.png::CompressedTexture2D/CompressedTexture2D::8145083033499177087::1757867767::1757867769::1::::<><><>0<>0<>cf9e2671bf223ebdfdb60927f4db61dc<>res://.godot/imported/index.icon.png-5665fad188e88d1e882500a4376bfe02.ctex::
+index.png::CompressedTexture2D/CompressedTexture2D::2906607316591234586::1757867767::1757867769::1::::<><><>0<>0<>b7b4577f10139621fdfcb57b34d07153<>res://.godot/imported/index.png-5122033cac747157decad52589e2295c.ctex::
 Main.gd::GDScript/GDScript::8123949213996832648::1757745907::0::1::::<>Node<><>0<>0<><>::
-Main.tscn::PackedScene/PackedScene::1946344858681233962::1757749876::0::1::::<><><>0<>0<><>::uid://dn0kiywu3mkq7::::res://Main.gd<>uid://dp478jyugrn7o::::res://Player.tscn<>uid://ha0ar5s2c3m4::::res://Mob.tscn<>uid://cqquurjk1i7yw::::res://ui_theme.tres<>uid://ofhvwth8plpb::::res://ScoreLabel.gd<>uid://c2cipnv4encry::::res://asset/Pine Trees.glb
+Main.tscn::PackedScene::1946344858681233962::1757868039::0::1::::<><><>0<>0<><>::uid://dn0kiywu3mkq7::::res://Main.gd<>uid://dp478jyugrn7o::::res://Player.tscn<>uid://ha0ar5s2c3m4::::res://Mob.tscn<>uid://cqquurjk1i7yw::::res://ui_theme.tres<>uid://ofhvwth8plpb::::res://ScoreLabel.gd<>uid://dbce6eejywsob::::res://fonts/Sarabun-Bold.ttf<>uid://do0qert5g41bx::::res://rock.tscn<>uid://dfedykh5smnkx::::res://bush.tscn<>uid://dwfiabmsr48fp::::res://tree.tscn
 Mob.gd::GDScript/GDScript::7291350454852087858::1757745907::0::1::::<>CharacterBody3D<><>0<>0<><>::
-Mob.tscn::PackedScene/PackedScene::492840770380503333::1757749876::0::1::::<><><>0<>0<><>::uid://db48qhcxd4usg::::res://Mob.gd<>uid://bicorb7we351t::::res://art/mob.glb<>uid://c54imps20dyjn::::res://asset/T-Rex.glb
-MusicPlayer.tscn::PackedScene/PackedScene::716687642126613565::1757745907::0::1::::<><><>0<>0<><>::uid://c5qpnfga41t4p::::res://art/House In a Forest Loop.ogg
+Mob.tscn::PackedScene::492840770380503333::1757867935::0::1::::<><><>0<>0<><>::uid://db48qhcxd4usg::::res://Mob.gd<>uid://bicorb7we351t::::res://art/mob.glb<>uid://c54imps20dyjn::::res://asset/T-Rex.glb
+MusicPlayer.tscn::PackedScene::716687642126613565::1757867935::0::1::::<><><>0<>0<><>::uid://c5qpnfga41t4p::::res://art/House In a Forest Loop.ogg
 Player.gd::GDScript/GDScript::9001394967907948641::1757745907::0::1::::<>CharacterBody3D<><>0<>0<><>::
-Player.tscn::PackedScene/PackedScene::8273964046187778922::1757749876::0::1::::<><><>0<>0<><>::uid://d1ilwo7xlp834::::res://Player.gd<>uid://d0ypm0v45pwdv::::res://art/player.glb<>uid://ujajfp4ol5sn::::res://asset/Deer.glb
+Player.tscn::PackedScene::8273964046187778922::1757867935::0::1::::<><><>0<>0<><>::uid://d1ilwo7xlp834::::res://Player.gd<>uid://d0ypm0v45pwdv::::res://art/player.glb<>uid://ujajfp4ol5sn::::res://asset/Deer.glb
 README.md::TextFile/TextFile::-1::1757745907::0::1::::<><><>0<>0<><>::
-Rock.tscn::PackedScene/PackedScene::8194494844543620969::1757747500::0::1::::<><><>0<>0<><>::uid://b7c6uhmd54yg7::::res://asset/Rock.glb
+rock.tscn::PackedScene::8194494844543620969::1757867935::0::1::::<><><>0<>0<><>::uid://b7c6uhmd54yg7::::res://asset/Rock.glb
 ScoreLabel.gd::GDScript/GDScript::993429405551857235::1757746800::0::1::::<>Label<><>0<>0<><>::
+tree.tscn::PackedScene::8714224307731182837::1757867935::0::1::::<><><>0<>0<><>::uid://chbfj551ky4rd::::res://asset/Tree1.glb
 ui_theme.tres::Theme/Theme::5930143872682747302::1757745907::0::1::::<><><>0<>0<><>::uid://cyxhh7ddkn62q::::res://fonts/Montserrat-Medium.ttf
 ::res://art/::1757745907
 body.tres::StandardMaterial3D/StandardMaterial3D::-1::1757745907::0::1::::<><><>0<>0<><>::
@@ -22,16 +27,19 @@ mob_body.tres::StandardMaterial3D/StandardMaterial3D::-1::1757745907::0::1::::<>
 mob_eye.tres::StandardMaterial3D/StandardMaterial3D::-1::1757745907::0::1::::<><><>0<>0<><>::
 player.glb::PackedScene/PackedScene::8964461739428881931::1757745907::1757745907::1::::<><><>0<>0<>888faf6ae4281eadd09c6bedcc72b9b7<>res://.godot/imported/player.glb-08dcfb373480a049995065542e37637b.scn::
 pupil.tres::StandardMaterial3D/StandardMaterial3D::-1::1757745907::0::1::::<><><>0<>0<><>::
-::res://asset/::1757747236
+::res://asset/::1757865895
+Bush.glb::PackedScene/PackedScene::7900437787434067478::1757865895::1757865895::1::::<><><>0<>0<>630e9c604d723fcfe252de6bcbd8d8ff<>res://.godot/imported/Bush.glb-d954ebbcc06bff668737fe80ab329bb9.scn::
 Deer.glb::PackedScene/PackedScene::1422372631817950337::1757746095::1757746097::1::::<><><>0<>0<>5b987af7083cdd980d21bf7206a44f66<>res://.godot/imported/Deer.glb-4caaf41fc5f9a78757ddd9e7a0604a28.scn::uid://cgj58ei106fdo::::res://asset/Deer_PUSHILIN_deer.png
 Deer_PUSHILIN_deer.png::CompressedTexture2D/CompressedTexture2D::5214434493650579536::1757746096::1757746097::1::::<><><>0<>0<>5225f5cf00c77fe2fceac0b756938238<>res://.godot/imported/Deer_PUSHILIN_deer.png-253f9240a7b4352b038285218251c3c8.s3tc.ctex::
 Pine Trees.glb::PackedScene/PackedScene::6672582140539832298::1757747230::1757747231::1::::<><><>0<>0<>df56047df777cd42ffee180fa7685684<>res://.godot/imported/Pine Trees.glb-7fd1d6f7ce37c2ddbed4304608fdfdb1.scn::
 Rock.glb::PackedScene/PackedScene::4638510764650783348::1757747235::1757747236::1::::<><><>0<>0<>9650fe9d8a45136b0497c9e83679d8cc<>res://.godot/imported/Rock.glb-51d9495aa7e810d432a8852b38cb69c9.scn::
 T-Rex.glb::PackedScene/PackedScene::6938881613780940071::1757746296::1757746297::1::::<><><>0<>0<>318fce324c7b10a72a691fe04e895661<>res://.godot/imported/T-Rex.glb-18c62d36bc07452fdf17f30c75ee712d.scn::uid://diqjjf7hpo7h0::::res://asset/T-Rex_Tex_Dinosaur.png
 T-Rex_Tex_Dinosaur.png::CompressedTexture2D/CompressedTexture2D::7754365681717733447::1757746296::1757746297::1::::<><><>0<>0<>82abe63b85e13bfafd1875d54bdc710a<>res://.godot/imported/T-Rex_Tex_Dinosaur.png-fe7dc2bdf5e6f5539f1d382ba40885ba.s3tc.ctex::
-::res://fonts/::1757745907
+Tree1.glb::PackedScene/PackedScene::5266548930955763545::1757865859::1757865866::1::::<><><>0<>0<>e0fcf2be9eba046cfa1188ef9537acec<>res://.godot/imported/Tree1.glb-e72e0a2ac4df382ee830d0ad9dcef4af.scn::
+::res://fonts/::1757867502
 LICENSE.txt::TextFile/TextFile::-1::1757745907::0::1::::<><><>0<>0<><>::
 Montserrat-Medium.ttf::FontFile/FontFile::6505293508080888906::1757745907::1757745907::1::::<><><>0<>0<>07233739ee8ed56ec1cb0f04a4ff2983<>res://.godot/imported/Montserrat-Medium.ttf-e832861e4ad4110e172112dc430c04b0.fontdata::
+Sarabun-Bold.ttf::FontFile/FontFile::7233878094522067829::1757867502::1757867502::1::::<><><>0<>0<>977b0ac7b75be5c72be78af15bba2240<>res://.godot/imported/Sarabun-Bold.ttf-c197056acea2f2566cc53371797aefeb.fontdata::
 ::res://lab05_game3D-main/::1757745907
 README.md::TextFile/TextFile::-1::1757745907::0::1::::<><><>0<>0<><>::
 ::res://lab05_game3D-main/docs/::1757745913

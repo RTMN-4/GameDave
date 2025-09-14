@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://dfedykh5smnkx"]
+
+[ext_resource type="PackedScene" uid="uid://dktbb53t6xbw5" path="res://asset/Bush.glb" id="1_8cy4n"]
+
+[sub_resource type="BoxMesh" id="BoxMesh_28u5p"]
+
+[node name="bush" type="Node3D"]
+
+[node name="Bush" parent="." instance=ExtResource("1_8cy4n")]
+transform = Transform3D(25.685, 0, 0, 0, 25.685, 0, 0, 0, 25.685, 0, 0, 0)
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="Bush"]
+transform = Transform3D(0.08, 0, 0, 0, 0.08, 0, 0, 0, 0.08, 0, 0, 0)
+visible = false
+mesh = SubResource("BoxMesh_28u5p")
